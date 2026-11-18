@@ -1,8 +1,8 @@
 # Simultaneous GABA-PET and fMRI in motor inhibition network
+This repository contains the analysis code for the research paper "Simultaneous PET-fMRI reveals combined GABA-A and functional connectivity contributions to motor inhibition in aging."
 
 ![Cover](images/infografia.webp)
 
-This repository contains the analysis code for the research paper "Simultaneous PET-fMRI reveals combined GABA-A and functional connectivity contributions to motor inhibition in aging."
 
 ## Overview
 
